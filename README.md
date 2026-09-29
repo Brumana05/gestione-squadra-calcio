@@ -23,4 +23,4 @@ L'app controlla il file `version.json` sul sito. Se lì c'è una versione più a
 - **Fai backup spesso**: Admin → "Salva backup" scarica un file; "Ripristina backup" lo ricarica (anche su un altro dispositivo).
 - La protezione degli accessi è quella dell'interfaccia: adatta a un uso interno semplice, non a dati sensibili.
 - Quando vorrai i dati condivisi tra più telefoni, servirà passare alla versione con Firebase (l'altra cartella).
-- Se aggiorni i file, cambia il numero di versione in `sw.js` (es. `osm-local-v1.04`) e in `index.html` (`VER`) e in `version.json`.
+- Se aggiorni i file, cambia il numero di versione in `sw.js` (es. `osm-local-v1.05`) e in `index.html` (`VER`) e in `version.json`.

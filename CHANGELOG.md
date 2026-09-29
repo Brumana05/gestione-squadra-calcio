@@ -4,3 +4,4 @@
 - **v1,01** – Icone nella cartella principale; versione nella barra del titolo; pulsante Impostazioni (nome e logo società, importazione anagrafica da Excel/CSV).
 - **v1,02** – Banner di avviso nuova versione (mostra versione in uso e nuova) con pulsanti "Aggiorna ora" e "Più tardi"; aggiunto `version.json`.
 - **v1,03** – Ordine schede: Anagrafica, Allenamenti, Calendario, Statistiche, Utenti, Backup, Ripristino. Anagrafica: aggiunti ruolo, cellulare atleta, cellulare mamma, cellulare papà (anche nell'import da Excel/CSV).
+- **v1,04** – Nuova grafica: sfondo bianco e blu al posto del verde (giallo invariato), icone blu.
