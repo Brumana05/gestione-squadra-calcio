@@ -6,4 +6,3 @@
 - **v1,03** – Ordine schede: Anagrafica, Allenamenti, Calendario, Statistiche, Utenti, Backup, Ripristino. Anagrafica: aggiunti ruolo, cellulare atleta, cellulare mamma, cellulare papà (anche nell'import da Excel/CSV).
 - **v1,04** – Nuova grafica: sfondo bianco e blu al posto del verde (giallo invariato), icone blu.
 - **v1,05** – Versione online con Firebase: dati condivisi tra tutti i dispositivi, login vero con ruoli applicati dalle regole del database. Import automatico dei dati della versione locale. Backup/Ripristino compatibili con la versione locale.
-- **v1,06** – Sfondo azzurro chiaro con riquadri bianchi; schermata di Benvenuto dopo il login con logo della società; su PC bande laterali (a sinistra logo società, a destra Union Brescia con "Società Affiliata"); icona dell'app = logo su sfondo bianco.
